@@ -1,5 +1,4 @@
 # SoftLoc: Robust Temporal Localization under Label Misalignment
-(Submitted at NIPS 2019)
 
 _Only codes for the Piano Onset Experiments are submitted as other codes are almost identical_
 
